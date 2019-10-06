@@ -1,4 +1,4 @@
-# RoboND-simple_arm
+# simple_arm robot
 A mini-project to better explain pub-sub architecture in ROS
 
 ## How to Launch the simulation?
